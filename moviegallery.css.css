@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+#d1{
+    color: red;
+    text-align: center;
+}
+.mov{
+    width: 200px;
+    height: 430px;
+    border:black 4px solid;
+color:red;
+    float: left;
+    margin-left: 80px;
+}
+img{
+    width: 100%;
+height: 190px;
+}
+#d2{
+    text-align: center;
+    }
+    
+#d3{
+    text-align: center;
+}
+#d4{
+    text-align: center;
+#d5{
+    text-align: center;
+}
