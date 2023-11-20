@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(0, 0, 0);
+    background-color:blue;
 }
+
 #d1{
     color: red;
     text-align: center;
@@ -26,6 +27,7 @@ height: 190px;
 }
 #d4{
     text-align: center;
+    }
 #d5{
     text-align: center;
 }
